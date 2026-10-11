@@ -1,0 +1,17 @@
+# 忽略模型权重
+   *.pt
+   *.pth
+   
+   # 忽略原始视频和结果视频
+   *.mp4
+   *.avi
+   *.mov
+   *.webm
+   
+   # 忽略 Python 缓存
+   __pycache__/
+   *.py[cod]
+   .DS_Store
+   
+   # 忽略数据集
+   datasets/
